@@ -1,0 +1,165 @@
+{
+  [
+
+    {
+      "Id": 1,
+      "Marka": "Dodge",
+      "Model": "Challenger R/T - 1970",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 1320
+    },
+    {
+      "Id": 2,
+      "Marka": "Chevrolet",
+      "Model": "Camaro - 1969",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 1500
+    },
+    {
+      "Id": 3,
+      "Marka": "Fiat",
+      "Model": "130 Coupe - 1974",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 300
+    },
+    {
+      "Id": 4,
+      "Marka": "BMW",
+      "Model": "2800 E3 - 1970",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 425
+    },
+    {
+      "Id": 5,
+      "Marka": "Porshe",
+      "Model": "911 Carrera 977 - 2005",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 1400
+    },
+    {
+      "Id": 6,
+      "Marka": "Volkswagen",
+      "Model": "Garbus - 1966",
+      "KlasaSamochodu": "Mini",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 250
+    },
+    {
+      "Id": 7,
+      "Marka": "Fiat",
+      "Model": "126 Silver - 1979",
+      "KlasaSamochodu": "Mini",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 180
+    },
+    {
+      "Id": 8,
+      "Marka": "Mercedes",
+      "Model": "280 SE 4.5 W108 - 1973",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 480
+    },
+    {
+      "Id": 9,
+      "Marka": "Volvo",
+      "Model": "PV544 Sport - 1961",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 160
+    },
+    {
+      "Id": 10,
+      "Marka": "Mercedes",
+      "Model": "280 SE W108 - 1969",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 650
+    },
+    {
+      "Id": 11,
+      "Marka": "Triumph",
+      "Model": "Spitfire 1500 - 1975",
+      "KlasaSamochodu": "Compact",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 1500
+    },
+    {
+      "Id": 12,
+      "Marka": "Alfa Romeo - 2010",
+      "Model": "Nestor",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 750
+    },
+    {
+      "Id": 13,
+      "Marka": "Dodge",
+      "Model": "Charger - 1973",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 1865
+    },
+    {
+      "Id": 14,
+      "Marka": "Ford",
+      "Model": "Mustang - 1969",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 2350
+    },
+    {
+      "Id": 15,
+      "Marka": "Cadillac",
+      "Model": "DeVille Cabriolet - 1965",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 3450
+    },
+    {
+      "Id": 16,
+      "Marka": "Citroën",
+      "Model": "Charleston - 1987",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 1236
+    },
+    {
+      "Id": 17,
+      "Marka": "Ford",
+      "Model": "Mustang - 1967",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 867
+    },
+    {
+      "Id": 18,
+      "Marka": "Bentley",
+      "Model": "T2 - 1980",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 3289
+    },
+    {
+      "Id": 19,
+      "Marka": "Chevrolet",
+      "Model": "Corvette - 1982",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "Benzyna",
+      "Cena": 1010
+    },
+    {
+      "Id": 20,
+      "Marka": "Volkswagen",
+      "Model": "Käfer Herbie - 1969",
+      "KlasaSamochodu": "Premium",
+      "RodzajNapedu": "mini",
+      "Cena": 1884
+    }
+
+  ]
